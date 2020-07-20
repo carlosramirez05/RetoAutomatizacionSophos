@@ -1,0 +1,47 @@
+# Clases compiladas
+RetoAutomatizacionSophos/*.class
+
+# Logs
+RetoAutomatizacionSophos/logs/
+RetoAutomatizacionSophos/*.logs
+RetoAutomatizacionSophos/log/
+RetoAutomatizacionSophos/*.log
+
+# Archivos comprimidos
+RetoAutomatizacionSophos/*.war
+RetoAutomatizacionSophos/*.nar
+RetoAutomatizacionSophos/*.ear
+RetoAutomatizacionSophos/*.zip
+RetoAutomatizacionSophos/*.tar.gz
+RetoAutomatizacionSophos/*.rar
+
+# Reportes serenity
+RetoAutomatizacionSophos/target/
+
+# Gradle
+.gradle/
+RetoAutomatizacionSophos/.gradle/
+RetoAutomatizacionSophos/build/
+
+# No ignorar el Gradle Wrapper
+!RetoAutomatizacionSophos/gradle\wrapper\gradle-wrapper.jar
+
+# Archivos eclipse
+RetoAutomatizacionSophos/.classpath
+RetoAutomatizacionSophos/.project
+RetoAutomatizacionSophos/.metadata
+RetoAutomatizacionSophos/bin/
+RetoAutomatizacionSophos/tmp/
+RetoAutomatizacionSophos/*.tmp
+RetoAutomatizacionSophos/*.bak
+RetoAutomatizacionSophos/*.swp
+RetoAutomatizacionSophos/*~.nib
+RetoAutomatizacionSophos/local.properties
+RetoAutomatizacionSophos/.settings/
+RetoAutomatizacionSophos/.loadpath
+RetoAutomatizacionSophos/.recommenders
+RetoAutomatizacionSophos/.idea/
+RetoAutomatizacionSophos/out/
+
+# Locally stored "Eclipse launch configurations"
+RetoAutomatizacionSophos/*.launch
